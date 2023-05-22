@@ -3,12 +3,12 @@ layout: page
 ---
 
 # About Me
-
-<img src="/images/fanze_kong.jpg" width="360" height="480">
+<rightt>
+<img src="/images/fanze_kong.jpg" class="floatpic" width="360" height="480">
 
 Here is **Fanze Kong (Jacky, 孔繁泽)**.
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am Fanze Kong (孔繁泽), a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [MARS LAB](https://mars.hku.hk/), supervised by Dr. Fu Zhang. My research interests lie in the areas of Unmanned Aerial Vehicle(UAV) design, UAV autonomous navigation, motion planning and LiDAR simulation. I have a proven track record of producing high-quality research that is the author of 8 published papers (1 **Science Robotics**, 3 **RA-L**, 1 **ICRA**, 1 **IROS** and 1 **AIS**), and 4 under-review papers (1 **TRO**, 1 **IJRR** and 2 **IROS**).
 
 ## Research Interests
 
