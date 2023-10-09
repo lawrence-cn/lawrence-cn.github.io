@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/fanze_kong.jpg" class="floatpic" width="360" height="480">
+<img src="/images/fanze_kong.jpg" class="floatpic" width="400" height="480">
 
 Here is **Fanze Kong (Jacky, 孔繁泽)**.
 

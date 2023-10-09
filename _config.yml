@@ -1,13 +1,13 @@
 title: Fanze Kong
 # tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
+description: 
 #Comment out url when working locally to resolve base urls correctly
 url: https://jackykongfz.github.io/
 
 # Owner/author information
 owner:
   name: Fanze Kong
-  avatar: /images/fanze_kong.jpg
+  # avatar: /images/fanze_kong.jpg
 #  bio:
   email: kongfz@connect.hku.hk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
