@@ -8,10 +8,10 @@ title: Publications
 
 ## Journal Paper
 
-### Occupancy Grid Mapping without Ray-Casting for High-resolution Sensors [<font color=red>[Preprint]</font>](https://arxiv.org/pdf/2307.08493.pdf)[<font color=red>[Youtube]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ)
+### Occupancy Grid Mapping without Ray-Casting for High-resolution Sensors 
 <!-- [[Preprint]](https://arxiv.org/pdf/2307.08493.pdf)[[Video]](https://www.youtube.com/watch?v=m5QQPbkYYnA) -->
 Yixi Cai\*, **Fanze Kong\***, Yunfan Ren, Fangcheng Zhu, Jiarong Lin, Fu Zhang
-<br>Accepted by ***IEEE Transactions on Robotics (TRO)***
+<br>Accepted by ***IEEE Transactions on Robotics (TRO)*** [<font color=#00ffff>[Preprint]</font>](https://arxiv.org/pdf/2307.08493.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ)
 
 ### Point‐LIO: Robust High‐Bandwidth Light Detection and Ranging Inertial Odometry [<font color=red>[Preprint]</font>](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aisy.202200459)[<font color=red>[Youtube]</font>](https://youtu.be/oS83xUs42Uw?si=aHDnNhM_4xNcFXU-)[<font color=red>[Bilibili]</font>](https://www.bilibili.com/video/BV1xL411R7Yq)
 Dongjiao He, Wei Xu, Nan Chen, **Fanze Kong**, Chongjian Yuan, Fu Zhang
