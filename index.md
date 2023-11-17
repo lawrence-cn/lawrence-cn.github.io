@@ -8,7 +8,7 @@ layout: page
 
 Here is **Fanze Kong (Jacky, 孔繁泽)**.
 
-I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [MARS LAB](https://mars.hku.hk/), supervised by [Dr. Fu Zhang](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [Prof. James Lam](https://meweb.hku.hk/jlam/). My research interests lie in the areas of Unmanned Aerial Vehicle(UAV) design, motion planning, LiDAR simulation and multi-UAV autonomous navigation.
+I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=blue>[MARS LAB]</font>](https://mars.hku.hk/), supervised by [<font color=blue>[Dr. Fu Zhang]</font>](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [<font color=blue>[Prof. James Lam]</font>](https://meweb.hku.hk/jlam/). My research interests lie in the areas of Unmanned Aerial Vehicle(UAV) design, motion planning, LiDAR simulation and multi-UAV autonomous navigation.
 
 I have a proven track record of producing high-quality research that is the author of 12 published papers (1 **Science Robotics**, 3 **RA-L**, 1 **ICRA**, 6 **IROS** and 1 **AIS**), and 3 accepted papers (1 **TRO**, 1 **IJRR**, 1 **Nature Communications**).
 
