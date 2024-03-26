@@ -37,11 +37,8 @@ I am the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **
 <br>
 
 ## Education Background
-
 - The University of Hong Kong (Ph.D.)
-
 - Shenzhen University (M.Eng)
-
 - Shenzhen University (B.Eng)
 
 <!-- ## Research Interests
