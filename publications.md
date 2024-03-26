@@ -8,10 +8,18 @@ title: Publications
 
 ## Journal Paper
 
+### MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion
+Haotian Li, Yuying Zou, Nan Chen, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan Liu, Dongjiao He, **Fanze Kong** , Yixi Cai, Zheng Liu, Shunbo Zhou, Kaiwen Xue and Fu Zhang
+<br>Published by ***International Journal of Robotics Research (IJRR)*** [<font color=blue>[LINK]</font>](https://mars.hku.hk/dataset.html)
+
+### Moving event detection from LiDAR point streams
+Huajie Wu, Yihang Li, Wei Xu, **Fanze Kong**, Fu Zhang
+<br>Published by ***Nature Communications (NC)*** [<font color=blue>[LINK]</font>](https://www.nature.com/articles/s41467-023-44554-8.epdf?sharing_token=ZuWvmxFIoXuaB14PDzgDc9RgN0jAjWel9jnR3ZoTv0MhUHPWiyQI5nv-ChA9kanQpjrYpXCoL3AtkFG9QqXjpC3r6jTl5aYUzZhk1oA6pElyQARuGLwrxrgsIvqCxaUKvDg8HP_7aqDumWwUB-Al7DGs28mlwtfVMO0OEiz2-Dc%3D)[<font color=blue>[Youtube]</font>](https://youtu.be/SYaig2eHV5I?si=FcWL-VmTL7q5B4HM)
+
 ### Occupancy Grid Mapping without Ray-Casting for High-resolution Sensors 
 <!-- [[Preprint]](https://arxiv.org/pdf/2307.08493.pdf)[[Video]](https://www.youtube.com/watch?v=m5QQPbkYYnA) -->
 Yixi Cai\*, **Fanze Kong\***, Yunfan Ren, Fangcheng Zhu, Jiarong Lin, Fu Zhang
-<br>Accepted by ***IEEE Transactions on Robotics (TRO)*** [<font color=blue>[Preprint]</font>](https://arxiv.org/pdf/2307.08493.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ)
+<br>Published by ***IEEE Transactions on Robotics (TRO)*** [<font color=blue>[Preprint]</font>](https://arxiv.org/pdf/2307.08493.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ)
 
 ### Point‐LIO: Robust High‐Bandwidth Light Detection and Ranging Inertial Odometry 
 Dongjiao He, Wei Xu, Nan Chen, **Fanze Kong**, Chongjian Yuan, Fu Zhang
