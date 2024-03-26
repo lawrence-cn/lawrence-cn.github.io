@@ -14,8 +14,6 @@ I am the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **
 
 <br>
 <br>
-<br>
-
 
 ## News and Updates
 
@@ -32,7 +30,6 @@ I am the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **
 [<font color=red>[Link]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
 [<font color=red>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC) Our paper is presented on the homepage of the **Science** website.
 
-<br>
 <br>
 <br>
 
