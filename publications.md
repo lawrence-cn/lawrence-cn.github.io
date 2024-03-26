@@ -16,13 +16,14 @@ title: Publications
 [<font color=blue>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
 
+
 ### Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
 <br>Published on ***IEEE Transactions on Industrial Electronics (T-IE)***
 
 
 ### Gemini II: Design, Modeling, and Control of a Compact Yet Efficient Servoless Bi-copter
-Youming Qin, **Nan Chen**, Yixi Cai, Wei Xu, Fu Zhang
+Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
 <br>Published on ***IEEE/ASME Transactions on Mechatronics (T-MECH)***
 <br>
 <!-- [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
@@ -88,7 +89,7 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 <br>Selected as the ***Best Paper Award Finalists in IROS 2023***.
 
 ### HALO: A Safe, Coaxial, and Dual-Ducted UAV without Servo
-Haotian Li, **Nan Chen**, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, Fu Zhang
+Haotian Li\*, **Nan Chen**\*, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, Fu Zhang
 <br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1ys4y1L7eG)
