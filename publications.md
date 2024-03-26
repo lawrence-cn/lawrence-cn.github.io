@@ -19,12 +19,13 @@ title: Publications
 
 ### Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
-<br>Published on ***IEEE Transactions on Industrial Electronics (T-IE), (Supervisor first author)***
+<br>Published on ***IEEE Transactions on Industrial Electronics (T-IE)***
 
 
 ### Gemini II: Design, Modeling, and Control of a Compact Yet Efficient Servoless Bi-copter
 Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
-<br>Published on ***IEEE/ASME Transactions on Mechatronics (T-MECH), (Co-first author)***
+<br>Co-first author
+<br>Published on ***IEEE/ASME Transactions on Mechatronics (T-MECH)***
 <br>
 <!-- [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=qGhQbPtp7Sw)
@@ -41,6 +42,7 @@ Timothy Ng, **Nan Chen**, Fu Zhang
 
 ### Nonlinear modeling of the flux linkage in 2-D plane for the planar switched reluctance motor
 Guangzhong Cao, **Nan Chen**, Sudan Huang, Jiangbiao He
+<br>Supervisor first author
 <br>Published on ***IEEE Transactions on Magnetics (T-MAG)***
 
 ### MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion
@@ -90,13 +92,15 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 
 ### HALO: A Safe, Coaxial, and Dual-Ducted UAV without Servo
 Haotian Li\*, **Nan Chen**\*, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, Fu Zhang
-<br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), (Co-first author)*** 
+<br>Co-first author
+<br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1ys4y1L7eG)
 
 ### Sensorless initial mover position detection of the planar switched reluctance motor using current injection method
-Guangzhong Cao, **Nan Chen**, Sudan Huang. 
-<br>Published by ***2017 7th International Conference on Power Electronics Systems and Applications-Smart Mobility, Power Transfer & Security (PESA 2017), (Supervisor first author)***
+Guangzhong Cao, **Nan Chen**, Sudan Huang.
+<br>Supervisor first author
+<br>Published by ***2017 7th International Conference on Power Electronics Systems and Applications-Smart Mobility, Power Transfer & Security (PESA 2017)***
 
 ### Decentralized LiDAR-inertial Swarm Odometry
 Fangcheng Zhu, Yunfan Ren, Fanze Kong, Huajie Wu, Siqi Liang, **Nan Chen**, Wei Xu, Fu Zhang
