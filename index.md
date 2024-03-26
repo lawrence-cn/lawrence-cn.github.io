@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/lawrence.jpg" class="floatpic" width="400" height="480">
+<img src="/images/lawrence.JPG" class="floatpic" width="413" height="531">
 
 Here is **Chen Nan (Lawrence, 陈楠)**.
 

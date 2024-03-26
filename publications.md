@@ -39,15 +39,18 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 ### Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV
 **Nan Chen**\*, Fanze Kong\*, Haotian Li, Jiayuan Liu, Ziwei Ye, Wei Xu, Fangcheng Zhu, Ximin Lyu, Fu Zhang
 <br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*** [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2309.13559.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/Sx9Rk4Zf7sQ?si=-JGP7CZFW_FYLHKX)
-<br>Recieved the ***IROS 2023 Best Paper Award on Robot Mechanisms and Design***
-<br>Selected as the ***Best Paper Award Finalists in 2023 IROS***.
-
+<br>Recieved the ***Best Paper Award on Robot Mechanisms and Design in IROS 2023***
+<br>Selected as the ***Best Paper Award Finalists in IROS 2023***.
 
 ### HALO: A Safe, Coaxial, and Dual-Ducted UAV without Servo
 Haotian Li, **Nan Chen**, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, Fu Zhang
 <br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*** [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1ys4y1L7eG)
 
+### Sensorless initial mover position detection of the planar switched reluctance motor using current injection method
+Guangzhong Cao, **Nan Chen**, Sudan Huang. 
+<br>Published by ***2017 7th International Conference on Power Electronics Systems and Applications-Smart Mobility, Power Transfer & Security (PESA 2017)***
 
 ### Decentralized LiDAR-inertial Swarm Odometry
 Fangcheng Zhu, Yunfan Ren, Fanze Kong, Huajie Wu, Siqi Liang, **Nan Chen**, Wei Xu, Fu Zhang
-<br>Published by ***2023 International Conference on Robotics and Automation (ICRA)*** [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2209.06628.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/MxeoKVXrmEs?si=THjCu3x7MQKRYndr)[<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1dg411m7Co)
+<br>Published by ***2023 International Conference on Robotics and Automation (ICRA 2013)*** [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2209.06628.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/MxeoKVXrmEs?si=THjCu3x7MQKRYndr)[<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1dg411m7Co)
+
