@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="/images/fanze_kong.jpg" class="floatpic" width="400" height="480">
+<img src="/images/lawrence.jpg" class="floatpic" width="400" height="480">
 
-Here is **Fanze Kong (Jacky, 孔繁泽)**.
+Here is **Chen Nan (Lawrence, 陈楠)**.
 
 I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=blue>[MARS LAB]</font>](https://mars.hku.hk/), supervised by [<font color=blue>[Dr. Fu Zhang]</font>](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [<font color=blue>[Prof. James Lam]</font>](https://meweb.hku.hk/jlam/). My research interests lie in the areas of Unmanned Aerial Vehicle(UAV) design, motion planning, LiDAR simulation and multi-UAV autonomous navigation.
 
