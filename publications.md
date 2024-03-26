@@ -10,7 +10,16 @@ title: Publications
 
 ### A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation
 **Nan Chen**, Fanze Kong, Wei Xu, Yixi Cai, Haotian Li, Dongjiao He, Youming Qin, Fu Zhang
-<br>Published by ***Science Robotics*** [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC)[<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
+<br>Published on ***Science Robotics*** [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)[<font color=blue>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC)[<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
+
+### Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation
+**Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
+<br>Published on ***IEEE Transactions on Industrial Electronics***
+
+
+### Gemini II: Design, Modeling, and Control of a Compact Yet Efficient Servoless Bi-copter
+Youming Qin, **Nan Chen**, Yixi Cai, 
+<br>Published on ***IEEE Transactions on Industrial Electronics***
 
 
 ### MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion

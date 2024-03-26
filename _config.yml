@@ -1,21 +1,21 @@
-title: Fanze Kong's Personal Page
+title: Chen Nan's Personal Page
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: 
 #Comment out url when working locally to resolve base urls correctly
-url: https://jackykongfz.github.io/
+url: https://lawrence-cn.github.io/
 
 # Owner/author information
 owner:
-  name: Fanze Kong
+  name: Chen Nan
   # avatar: /images/fanze_kong.jpg
 #  bio:
-  email: kongfz@connect.hku.hk
+  email: cnchen@connect.hku.hk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: jackykongfz
+  github: lawrence-cn
   # linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?&user=xROohu0AAAAJ
+  scholar: https://scholar.google.com/citations?user=6rHhAPQAAAAJ&hl=zh-CN
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
