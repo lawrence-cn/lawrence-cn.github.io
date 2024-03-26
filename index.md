@@ -8,9 +8,9 @@ layout: page
 
 Here is **Chen Nan (Lawrence, 陈楠)**.
 
-I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=blue>[MARS LAB]</font>](https://mars.hku.hk/), supervised by [<font color=blue>[Dr. Fu Zhang]</font>](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [<font color=blue>[Prof. James Lam]</font>](https://meweb.hku.hk/jlam/). My research interests lie in the areas of Unmanned Aerial Vehicle(UAV) design, motion planning, LiDAR simulation and multi-UAV autonomous navigation.
+I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=blue>[MARS LAB]</font>](https://mars.hku.hk/), supervised by [<font color=blue>[Dr. Fu Zhang]</font>](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [<font color=blue>[Prof. James Lam]</font>](https://meweb.hku.hk/jlam/). My research interests lie in the areas of Unmanned Aerial Vehicle (UAV) design, control, and autonomous navigation.
 
-I have a proven track record of producing high-quality research that is the author of 14 published papers (1 **Science Robotics**, 1 **TRO**, 2 **IJRR**, 1 **Nature Communications**, 3 **RA-L**, 1 **ICRA**, 4 **IROS** and 1 **AIS**).
+I have a proven track record of producing high-quality research that is the author of 14 published papers (1 **Science Robotics**, 2 **IJRR**, 3 **RA-L**, 1 **ICRA**, 4 **IROS** and 1 **AIS**).
 
 <br>
 <br>
@@ -30,9 +30,9 @@ I have a proven track record of producing high-quality research that is the auth
 
 ## Academic Background
 
-- **Nov 2020 - Now**: The University of Hong Kong (Ph.D.)
-- **Sep 2016 - Sep 2020**: Harbin Institute of Technology (BEng)
-- **Sep 2013 - Sep 2016**: Shenzhen Middle School
+The University of Hong Kong (Ph.D.)
+Shenzhen University (M.Eng)
+Shenzhen University (B.Eng)
 
 <!-- ## Research Interests
 
