@@ -6,11 +6,11 @@ layout: page
 
 <img src="/images/lawrence.JPG" class="floatpic" width="413" height="531">
 
-Here is **Chen Nan (Lawrence, 陈楠)**.
+Hello, here is **Chen Nan (Lawrence, 陈楠)**.
 
 I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=blue>[MaRS LAB]</font>](https://mars.hku.hk/), supervised by [<font color=blue>[Dr. Fu Zhang]</font>](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [<font color=blue>[Prof. James Lam]</font>](https://meweb.hku.hk/jlam/). My research interests lie on the areas of Unmanned Aerial Vehicle (UAV) design, control, and autonomous navigation.
 
-I have a proven track record of producing high-quality research that is the author of 13 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **T-Mech**, 2 **IJRR**, 1 **RA-L**, 1 **AIS**, 1 **T-MAG**, 1, **ICRA**, 3 **IROS**, 1 **PESA**).
+I have a proven track record of producing high-quality research that is the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **T-MECH**, 2 **IJRR**, 2 **RA-L**, 1 **AIS**, 1 **T-MAG**, 1, **ICRA**, 3 **IROS**, 1 **PESA**).
 
 <br>
 <br>
