@@ -144,4 +144,5 @@ Fangcheng Zhu, Yunfan Ren, Fanze Kong, Huajie Wu, Siqi Liang, **Nan Chen**, Wei 
 [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2209.06628.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/MxeoKVXrmEs?si=THjCu3x7MQKRYndr)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1dg411m7Co)
-
+<img src="/images/SwarmLIO.jpeg" width="500">
+<br>**Swarm-LIO for localization of UAV swarm system**
