@@ -11,15 +11,17 @@ title: Awards
 - Best Mechanical Design Award in the workshop held at ICRA 2023
 
 ## Scholarships & Honors
-# Ph.D.
+### Ph.D.
 - Research Postgraduate Student Innovation Award (2023)
 - Arthur and Louise May Memorial Fund Scholarship (2023)
 - Postgraduate Scholarships of HKU (2020-2024)
-# M.Eng
+<br>
+### M.Eng
 - Excellent Research Award (2018)
 - Excellent Postgraduate Award (2018)
 - Short-term International Academic Exchange Scholarship (2017)
-# B.Eng
+<br>
+### B.Eng
 - Outstanding Graduate of Shenzhen University (University Level, 5\%, 2015)
 - Excellent Student of Academic Performance (Second Prize, 10\%, 2014)
 - Excellent Student of Academic Performance (First Prize, 5\%, 2013)
