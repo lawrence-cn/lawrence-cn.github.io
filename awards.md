@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Academic Awards
+## Paper Awards
 - Best Paper Award on Robot Mechanisms and Design in IROS 2023<br>
 (As first author)
 <br>
@@ -29,7 +29,7 @@ title: Awards
 ### Ph.D.
 - Research Postgraduate Student Innovation Award (Up to 10 persons, 50k HKD funding)
 - Arthur and Louise May Memorial Fund Scholarship (27.5k HKD)
-- Postgraduate Scholarships of HKU (18.9k HKD per month)
+- Postgraduate Scholarships of HKU (18.9k HKD per month for 4 years)
 <br>
 
 ### M.Eng
