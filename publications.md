@@ -27,12 +27,12 @@ title: Publications
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lrEJnJrRJsQ" frameborder="0" allowfullscreen></iframe> -->
 
-### Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation
+### <font color="#C5502B">Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation</font>
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
 <br>Published on ***IEEE Transactions on Industrial Electronics (T-IE)***
 
 
-### Gemini II: Design, Modeling, and Control of a Compact Yet Efficient Servoless Bi-copter
+### <font color="#C5502B">Gemini II: Design, Modeling, and Control of a Compact Yet Efficient Servoless Bi-copter</font>
 Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
 <br>Co-first author
 <br>Published on ***IEEE/ASME Transactions on Mechatronics (T-MECH)***
@@ -47,7 +47,7 @@ Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
 <br>**Best Paper Award Finalist of T-MECH 2023**
 
 
-### Snapp: An Agile Robotic Fish with 3D Maneuverability for Open Water Swim
+### <font color="#C5502B">Snapp: An Agile Robotic Fish with 3D Maneuverability for Open Water Swim</font>
 Timothy Ng, **Nan Chen**, Fu Zhang
 <br>Published on ***IEEE Robotics and Automation Letters (RA-L)***
 <br>
@@ -55,18 +55,18 @@ Timothy Ng, **Nan Chen**, Fu Zhang
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=1bGmlN0Jriw)
 
 
-### Nonlinear modeling of the flux linkage in 2-D plane for the planar switched reluctance motor
+### <font color="#C5502B">Nonlinear modeling of the flux linkage in 2-D plane for the planar switched reluctance motor</font>
 Guangzhong Cao, **Nan Chen**, Sudan Huang, Jiangbiao He
 <br>Supervisor first author
 <br>Published on ***IEEE Transactions on Magnetics (T-MAG)***
 
-### MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion
+### <font color="#C5502B">MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion</font>
 Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan Liu, Dongjiao He, Fanze Kong, Yixi Cai, Zheng Liu, Shunbo Zhou, Kaiwen Xue and Fu Zhang
 <br>Published on ***International Journal of Robotics Research (IJRR)*** 
 <br>
 [<font color=blue>[LINK]</font>](https://mars.hku.hk/dataset.html)
 
-### Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights
+### <font color="#C5502B">Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights</font>
 Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
 <br>Accepted on ***International Journal of Robotics Research (IJRR)*** 
 <br>
@@ -75,7 +75,7 @@ Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Z84y1s7BR)
 
 
-### Point‐LIO: Robust High‐Bandwidth Light Detection and Ranging Inertial Odometry 
+### <font color="#C5502B">Point‐LIO: Robust High‐Bandwidth Light Detection and Ranging Inertial Odometry</font>
 Dongjiao He, Wei Xu, **Nan Chen**, Fanze Kong, Chongjian Yuan, Fu Zhang
 <br>Published on ***Advanced Intelligent Systems (AIS)***
 <br>
@@ -84,7 +84,7 @@ Dongjiao He, Wei Xu, **Nan Chen**, Fanze Kong, Chongjian Yuan, Fu Zhang
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1xL411R7Yq)
 
 
-### MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs
+### <font color="#C5502B">MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs</font>
 Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng Zhu, **Nan Chen**, Fu Zhang
 <br>Published on ***IEEE Robotics and Automation Letters (RA-L)*** 
 <br>
@@ -96,7 +96,7 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 
 ## Conference Papers
 
-### Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV
+### <font color="#C5502B">Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV</font>
 **Nan Chen**\*, Fanze Kong\*, Haotian Li, Jiayuan Liu, Ziwei Ye, Wei Xu, Fangcheng Zhu, Ximin Lyu, Fu Zhang
 <br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
@@ -105,19 +105,19 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 <br>Recieved the ***Best Paper Award on Robot Mechanisms and Design in IROS 2023***
 <br>Selected as the ***Best Paper Award Finalists in IROS 2023***.
 
-### HALO: A Safe, Coaxial, and Dual-Ducted UAV without Servo
+### <font color="#C5502B">HALO: A Safe, Coaxial, and Dual-Ducted UAV without Servo</font>
 Haotian Li\*, **Nan Chen**\*, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, Fu Zhang
 <br>Co-first author
 <br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1ys4y1L7eG)
 
-### Sensorless initial mover position detection of the planar switched reluctance motor using current injection method
+### <font color="#C5502B">Sensorless initial mover position detection of the planar switched reluctance motor using current injection method</font>
 Guangzhong Cao, **Nan Chen**, Sudan Huang.
 <br>Supervisor first author
 <br>Published by ***2017 7th International Conference on Power Electronics Systems and Applications-Smart Mobility, Power Transfer & Security (PESA 2017)***
 
-### Decentralized LiDAR-inertial Swarm Odometry
+### <font color="#C5502B">Decentralized LiDAR-inertial Swarm Odometry</font>
 Fangcheng Zhu, Yunfan Ren, Fanze Kong, Huajie Wu, Siqi Liang, **Nan Chen**, Wei Xu, Fu Zhang
 <br>Published by ***2023 International Conference on Robotics and Automation (ICRA 2013)*** 
 <br>
