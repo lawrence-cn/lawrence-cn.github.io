@@ -123,6 +123,8 @@ Haotian Li\*, **Nan Chen**\*, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, 
 <br>Published on ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1ys4y1L7eG)
+<br><img src="/images/HALO1.jpeg" width="500">
+<br>**Overview of UAV HALO**
 
 ### <font color="#C5502B">Sensorless initial mover position detection of the planar switched reluctance motor using current injection method</font>
 Guangzhong Cao, **Nan Chen**, Sudan Huang.
