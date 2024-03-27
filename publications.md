@@ -5,9 +5,11 @@ title: Publications
 ---
 
 # Publications
-
+<br>
+<br>
 ## Journal Papers
-
+<br>
+<br>
 ### A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation
 **Nan Chen**, Fanze Kong, Wei Xu, Yixi Cai, Haotian Li, Dongjiao He, Youming Qin, Fu Zhang
 <br>Published on ***Science Robotics***
@@ -17,10 +19,10 @@ title: Publications
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
-<br><img src="/images/PULSAR2.jpeg" width="500">
+<br><img src="/images/PULSAR1.jpeg" width="500">
 <br>**Overview of PULSAR**
 <br>
-<img src="/images/PULSAR1.jpeg" width="500">
+<img src="/images/PULSAR2.jpeg" width="500">
 <br>**Selected as a visual feature on the website of Science**
 
 <!-- <video src="https://www.bilibili.com/video/BV1Ro4y1i7mE" controls>
@@ -42,6 +44,11 @@ Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
 <!-- [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=qGhQbPtp7Sw)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV17R4y1L7d3/?spm_id_from=333.999.0.0&vd_source=529f674babcef1c7b0b6fe455ad82cdb)
+<br><img src="/images/Gemini1.jpeg" width="500">
+<br>**Overview of Gemini II**
+<br>
+<img src="/images/Gemini2.jpeg" width="500">
+<br>**Best Paper Award Finalist of T-MECH 2023**
 
 
 ### Snapp: An Agile Robotic Fish with 3D Maneuverability for Open Water Swim
