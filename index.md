@@ -10,7 +10,7 @@ Hello, here is **Chen Nan (Lawrence, 陈楠)**.
 
 I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=blue>[MaRS LAB]</font>](https://mars.hku.hk/), supervised by [<font color=blue>[Dr. Fu Zhang]</font>](https://www.mech.hku.hk/academic-staff/Zhang-F) and co-supervised by [<font color=blue>[Prof. James Lam]</font>](https://meweb.hku.hk/jlam/). My research interests lie on the areas of Unmanned Aerial Vehicle (UAV) design, control, and autonomous navigation.
 
-I am the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **T-MECH**, 2 **IJRR**, 2 **RA-L**, 1 **AIS**, 1 **T-MAG**, 1, **ICRA**, 3 **IROS**, 1 **PESA**).
+I am the author of 14 published papers (**1 Science Robotics**, **1 T-IE**, **1 T-MECH**, **2 IJRR**, **2 RA-L**, **1 AIS**, **1 T-MAG**, **1 ICRA**, **3 IROS**, **1 PESA**).
 
 
 ## News and Updates
