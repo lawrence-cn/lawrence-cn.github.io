@@ -75,6 +75,11 @@ Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
 [<font color=blue>[Preprint]</font>](https://arxiv.org/pdf/2212.11552.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/2x_bLbVuyrk?si=on8mgj96K2cthpsA)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Z84y1s7BR)
+<br><img src="/images/HongHu1.jpeg" width="500">
+<br>**Indoor autonomous flight of UAV Hong Hu**
+<br>
+<img src="/images/HongHu2.jpeg" width="500">
+<br>**Outdoor autonomous flight of UAV Hong Hu**
 
 
 ### <font color="#C5502B">Point‐LIO: Robust High‐Bandwidth Light Detection and Ranging Inertial Odometry</font>
