@@ -12,23 +12,23 @@ title: Awards
 
 ## Scholarships & Honors
 ### Ph.D.
-- Research Postgraduate Student Innovation Award (2023)
-- Arthur and Louise May Memorial Fund Scholarship (2023)
-- Postgraduate Scholarships of HKU (2020-2024)
+- Research Postgraduate Student Innovation Award
+- Arthur and Louise May Memorial Fund Scholarship
+- Postgraduate Scholarships of HKU
 <br>
 
 ### M.Eng
-- Excellent Research Award (2018)
-- Excellent Postgraduate Award (2018)
-- Short-term International Academic Exchange Scholarship (2017)
+- Excellent Research Award
+- Excellent Postgraduate Award
+- Short-term International Academic Exchange Scholarship
 <br>
 
 ### B.Eng
-- Outstanding Graduate of Shenzhen University (University Level, 5\%, 2015)
-- Excellent Student of Academic Performance (Second Prize, 10\%, 2014)
-- Excellent Student of Academic Performance (First Prize, 5\%, 2013)
-- Excellent Student of Academic Performance (First Prize, 5\%, 2012)
-- Educational Robot Competition in China (First prize, 2012)
+- Outstanding Graduate (University Level, 5%)
+- Excellent Student of Academic Performance (Second Prize, 10%)
+- Excellent Student of Academic Performance (First Prize, 5%)
+- Excellent Student of Academic Performance (First Prize, 5%)
+- Educational Robot Competition in China (First prize)
 
 
 <!-- - May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
