@@ -67,10 +67,10 @@ Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan
 <br>Published on ***International Journal of Robotics Research (IJRR)*** 
 <br>
 [<font color=blue>[LINK]</font>](https://mars.hku.hk/dataset.html)
-<br><img src="/images/LVIG.jpeg" width="500">
-<br>**The UAV used for MARS-LVIG Dataset**
-<!-- <br><img src="/images/LVIG2.jpeg" width="500">
+<!-- <br><img src="/images/LVIG.jpeg" width="500">
 <br>**The UAV used for MARS-LVIG Dataset** -->
+<br><img src="/images/LVIG2.jpeg" width="700">
+<br>**The UAV used for MARS-LVIG Dataset**
 
 ### <font color="#C5502B">Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights</font>
 Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
@@ -79,10 +79,10 @@ Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
 [<font color=blue>[Preprint]</font>](https://arxiv.org/pdf/2212.11552.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/2x_bLbVuyrk?si=on8mgj96K2cthpsA)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Z84y1s7BR)
-<br><img src="/images/HongHu1.jpeg" width="500">
+<br><img src="/images/HongHu1.jpeg" width="700">
 <br>**Indoor autonomous flight of UAV Hong Hu**
 <br>
-<img src="/images/HongHu2.jpeg" width="500">
+<img src="/images/HongHu2.jpeg" width="700">
 <br>**Outdoor autonomous flight of UAV Hong Hu**
 
 
@@ -93,7 +93,7 @@ Dongjiao He, Wei Xu, **Nan Chen**, Fanze Kong, Chongjian Yuan, Fu Zhang
 [<font color=blue>[Preprint]</font>](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aisy.202200459)
 [<font color=blue>[Youtube]</font>](https://youtu.be/oS83xUs42Uw?si=aHDnNhM_4xNcFXU-)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1xL411R7Yq)
-<br><img src="/images/PointLIO.jpeg" width="500">
+<br><img src="/images/PointLIO.jpeg" width="700">
 <br>**Mapping under high-speed motion of Point-LIO**
 
 
