@@ -70,7 +70,7 @@ Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan
 <!-- <br><img src="/images/LVIG.jpeg" width="500">
 <br>**The UAV used for MARS-LVIG Dataset** -->
 <br><img src="/images/LVIG2.jpeg" width="700">
-<br>**The UAV used for MARS-LVIG Dataset**
+<br>**The UAV used for MARS-LVIG dataset**
 
 ### <font color="#C5502B">Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights</font>
 Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
