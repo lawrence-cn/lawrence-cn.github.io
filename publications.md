@@ -100,28 +100,33 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 
 ### <font color="#C5502B">Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV</font>
 **Nan Chen**\*, Fanze Kong\*, Haotian Li, Jiayuan Liu, Ziwei Ye, Wei Xu, Fangcheng Zhu, Ximin Lyu, Fu Zhang
-<br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
+<br>Published on ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
 [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2309.13559.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/Sx9Rk4Zf7sQ?si=-JGP7CZFW_FYLHKX)
-<br>Recieved the ***Best Paper Award on Robot Mechanisms and Design in IROS 2023***
-<br>Selected as the ***Best Paper Award Finalists in IROS 2023***.
+<!-- <br>***Best Paper Award on Robot Mechanisms and Design in IROS 2023***
+<br>Selected as the ***Best Paper Award Finalists in IROS 2023***. -->
+<br><img src="/images/HongHe1.jpeg" width="500">
+<br>**Overview of UAV Hong He**
+<br>
+<img src="/images/HongHe2.jpeg" width="500">
+<br>**Best Paper Award on Robot Mechanisms and Design & Best Paper Award Finalists in IROS 2023**
 
 ### <font color="#C5502B">HALO: A Safe, Coaxial, and Dual-Ducted UAV without Servo</font>
 Haotian Li\*, **Nan Chen**\*, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, Fu Zhang
 <br>Co-first author
-<br>Published by ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
+<br>Published on ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1ys4y1L7eG)
 
 ### <font color="#C5502B">Sensorless initial mover position detection of the planar switched reluctance motor using current injection method</font>
 Guangzhong Cao, **Nan Chen**, Sudan Huang.
 <br>Supervisor first author
-<br>Published by ***2017 7th International Conference on Power Electronics Systems and Applications-Smart Mobility, Power Transfer & Security (PESA 2017)***
+<br>Published on ***2017 7th International Conference on Power Electronics Systems and Applications-Smart Mobility, Power Transfer & Security (PESA 2017)***
 
 ### <font color="#C5502B">Decentralized LiDAR-inertial Swarm Odometry</font>
 Fangcheng Zhu, Yunfan Ren, Fanze Kong, Huajie Wu, Siqi Liang, **Nan Chen**, Wei Xu, Fu Zhang
-<br>Published by ***2023 International Conference on Robotics and Automation (ICRA 2013)*** 
+<br>Published on ***2023 International Conference on Robotics and Automation (ICRA 2013)*** 
 <br>
 [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2209.06628.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/MxeoKVXrmEs?si=THjCu3x7MQKRYndr)
