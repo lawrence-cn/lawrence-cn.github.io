@@ -15,7 +15,14 @@ title: Publications
 [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
-
+<br>
+<img src="/images/PULSAR.PNG" class="floatpic" width="413" height="531">
+<br>
+<img src="/images/PULSAR.PNG">
+<br>
+![PULSAR](/images/PULSAR.PNG)
+<br>
+[PULSAR](/images/PULSAR.PNG)
 
 ### Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
