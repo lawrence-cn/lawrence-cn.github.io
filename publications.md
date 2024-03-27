@@ -18,12 +18,10 @@ title: Publications
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br>
-<img src="/images/PULSAR2.jpeg" style="zoom:50%;" />
-<!-- ![PULSAR1](/images/PULSAR2.jpeg) -->
+<img src="/images/PULSAR2.jpeg" style="zoom:25%;" />
 <center>Overview of PULSAR</center>
 <br>
-<!-- ![PULSAR1](/images/PULSAR1.jpeg) -->
-<img src="/images/PULSAR1.jpeg" style="zoom:50%;" />
+<img src="/images/PULSAR1.jpeg" style="zoom:25%;" />
 <center>Selected as a visual feature on the website of Science</center>
 
 <!-- <video src="https://www.bilibili.com/video/BV1Ro4y1i7mE" controls>
