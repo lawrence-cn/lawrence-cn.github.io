@@ -13,24 +13,25 @@ I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=bl
 I am the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **T-MECH**, 2 **IJRR**, 2 **RA-L**, 1 **AIS**, 1 **T-MAG**, 1, **ICRA**, 3 **IROS**, 1 **PESA**).
 
 <br>
-<br>
 
 ## News and Updates
 
 - **Oct 2023**: Our conference paper "Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV" won **IROS Best Paper Award on Robot Mechanisms and Design** and **IROS 2023 Best Overall and Best Student Paper Finalist**.
 [<font color=red>[Preprint]</font>](https://arxiv.org/abs/2309.13559.pdf)[<font color=red>[Youtube]</font>](https://youtu.be/Sx9Rk4Zf7sQ?si=-JGP7CZFW_FYLHKX)
-[<font color=red>[Preprint]</font>](https://arxiv.org/pdf/2307.08493.pdf)[<font color=red>[Youtube]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ)<!-- [<font color=red>[Bilibili]</font>](https://youtu.be/m5QQPbkYYnA?si=SSc4g1yhleJJoijZ) -->
+
 - **Sep 2023**: Our paper “Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights” is accepted for publication in **International Journal of Robotics Research (IJRR)**.
 [<font color=red>[Preprint]</font>](https://arxiv.org/pdf/2212.11552.pdf)
 [<font color=red>[Youtube]</font>](https://youtu.be/2x_bLbVuyrk?si=on8mgj96K2cthpsA)
 [<font color=red>[Bilibili]</font>](https://www.bilibili.com/video/BV1Z84y1s7BR)
+
 - **Sep 2023**: Five papers are accepted by **2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.
+
 - **Jun 2023**: Our paper “Agile motions of a single-actuated, self-rotating UAV”, is selected as the Best Mechanical Design Award at the workshop of "Agile Movements: Animal Behavior, Biomechanics, and Robot Devices" held in **2023 International Conference on Robotics and Automation (ICRA)**.
+
 - **Mar 2023**: Our paper “A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation” is published on and visually featured by **Science Robotics**.
 [<font color=red>[Link]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
 [<font color=red>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC) Our paper is presented on the homepage of the **Science** website.
 
-<br>
 <br>
 
 ## Education Background

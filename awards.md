@@ -4,7 +4,28 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+## Academic awards
+- Best Paper Award on Robot Mechanisms and Design in IROS 2023
+- Best Paper Award Finalist in IROS 2023
+- Best Paper Award Finalist in IEEE/ASME Transactions on Mechatronics 2023
+- Best Mechanical Design Award in the workshop held at ICRA 2023
+
+## Scholarships & Honors
+# Ph.D.
+- Research Postgraduate Student Innovation Award (2023)
+- Arthur and Louise May Memorial Fund Scholarship (2023)
+- Postgraduate Scholarships of HKU (2020-2024)
+# M.Eng
+- Excellent Research Award (2018)
+- Excellent Postgraduate Award (2018)
+- Short-term International Academic Exchange Scholarship (2017)
+# B.Eng
+- Outstanding Graduate of Shenzhen University (University Level, 5\%, 2015)
+- Excellent Student of Academic Performance (Second Prize, 10\%, 2014)
+- Excellent Student of Academic Performance (First Prize, 5\%, 2013)
+- Excellent Student of Academic Performance (First Prize, 5\%, 2012)
+- Educational Robot Competition in China (First prize, 2012)
+
 
 <!-- - May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
 - March 2023：Second Prize Scholarship of FZU ($1400)
@@ -14,7 +35,7 @@ title: Awards
 - Sep 2021：Third Prize Scholarship of FZU ($700)
 - March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth. -->
 
-## Competitions
+<!-- ## Competitions -->
 
 <!-- - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
 - May 2023：Third Prize in Milan Design Week China Design Exhibition (powered by my girlfriend)
@@ -26,7 +47,7 @@ title: Awards
 - June 2022：Third Prize in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 - May 2022：Third Prize (Short Videos Group) in China National College Student New Media Competition -->
 
-## Honors
+<!-- ## Honors -->
 
 <!-- - May 2023：Outstanding Student Leaders of Fuzhou University
 - Sep 2022：Nomination for China National Scholarship (3/1200)
