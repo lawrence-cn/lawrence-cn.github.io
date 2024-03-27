@@ -18,10 +18,10 @@ title: Publications
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br>
-<img src="./images/PULSAR2.jpeg" width="500">
+<img src="./images/PULSAR2.jpeg" class="floatpic" width="500">
 
 **Overview of PULSAR**
-<img src="./images/PULSAR1.jpeg" width="500" />
+<img src="./images/PULSAR1.jpeg" class="floatpic" width="500">
 
 **Selected as a visual feature on the website of Science**
 
