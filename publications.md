@@ -18,13 +18,15 @@ title: Publications
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br>
+![PULSAR1](/images/PULSAR2.jpeg)
+<br>
 ![PULSAR1](/images/PULSAR1.jpeg)
 
-<video src="https://www.bilibili.com/video/BV1Ro4y1i7mE" controls>
+<!-- <video src="https://www.bilibili.com/video/BV1Ro4y1i7mE" controls>
   您的浏览器不支持视频标签。
 </video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lrEJnJrRJsQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lrEJnJrRJsQ" frameborder="0" allowfullscreen></iframe> -->
 
 ### Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
