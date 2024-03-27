@@ -19,8 +19,10 @@ title: Publications
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br>
 ![PULSAR1](/images/PULSAR2.jpeg)
+Overview of PULSAR
 <br>
 ![PULSAR1](/images/PULSAR1.jpeg)
+Selected as a visual feature on the website of Science
 
 <!-- <video src="https://www.bilibili.com/video/BV1Ro4y1i7mE" controls>
   您的浏览器不支持视频标签。
