@@ -5,21 +5,25 @@ title: Awards
 ---
 
 ## Academic Awards
-- Best Paper Award on Robot Mechanisms and Design in IROS 2023 (First author)
+- Best Paper Award on Robot Mechanisms and Design in IROS 2023
+(As first author)
 <br>
 <img src="/awards_img/IROS1.jpg" width="300">
 
-- Best Paper Award Finalist in IROS 2023 (First author)
+- Best Paper Award Finalist in IROS 2023
+(As first author)
 <br>
 <img src="/awards_img/IROS2.jpg" width="300">
 
-- Best Paper Award Finalist in IEEE/ASME Transactions on Mechatronics 2023 (Co-first author)
+- Best Paper Award Finalist in IEEE/ASME Transactions on Mechatronics 2023
+(As co-first author)
 <br>
-<img src="/awards_img/T-MECH.jpg" width="500">
+<img src="/awards_img/T-MECH.jpg" width="400">
 
-- Best Mechanical Design Award in the workshop held at ICRA 2023 (First author)
+- Best Mechanical Design Award in the workshop held at ICRA 2023
+(As first author)
 <br>
-<img src="/awards_img/ICRA.jpg" width="500">
+<img src="/awards_img/ICRA.jpg" width="400">
 
 ## Scholarships & Honors
 ### Ph.D.
