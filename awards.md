@@ -8,14 +8,14 @@ title: Awards
 - Best Paper Award on Robot Mechanisms and Design in IROS 2023<br>
 (As first author)
 <br>
-<img src="/awards_img/IROS1.jpg" width="300">
+<img src="/awards_img/IROS.jpg" width="300">
 
 - Best Paper Award Finalist in IROS 2023<br>
 (As first author)
 <br>
 <img src="/awards_img/IROS2.jpg" width="300">
 
-- Best Paper Award Finalist in IEEE/ASME Transactions on Mechatronics 2023<br>
+- Best Paper Award Finalist in IEEE/ASME Trans. on Mechatronics 2023<br>
 (As co-first author)
 <br>
 <img src="/awards_img/T-MECH.jpg" width="400">
