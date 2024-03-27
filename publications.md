@@ -98,7 +98,8 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2211.10716.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/hiRtcq-5lN0?si=ELwVtgSFala3ncQU)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1M84y117KG)
-
+<br><img src="/images/MARSIM.jpeg" width="500">
+<br>**A demo of MARSIM**
 
 
 ## Conference Papers
