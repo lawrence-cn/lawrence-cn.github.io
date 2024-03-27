@@ -12,7 +12,6 @@ I am a Ph.D. candidate at The University of Hong Kong (HKU)🏫, [<font color=bl
 
 I am the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **T-MECH**, 2 **IJRR**, 2 **RA-L**, 1 **AIS**, 1 **T-MAG**, 1, **ICRA**, 3 **IROS**, 1 **PESA**).
 
-<br>
 
 ## News and Updates
 
@@ -32,7 +31,6 @@ I am the author of 14 published papers (1 **Science Robotics**, 1 **T-IE**, 1 **
 [<font color=red>[Link]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
 [<font color=red>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC) Our paper is presented on the homepage of the **Science** website.
 
-<br>
 
 ## Education Background
 - The University of Hong Kong (Ph.D.)
