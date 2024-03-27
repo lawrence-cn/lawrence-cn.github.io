@@ -13,16 +13,14 @@ title: Publications
 <br>Published on ***Science Robotics***
 <br>
 [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
-[<font color=blue>[Youtube]</font>](https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC)
+[<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=lrEJnJrRJsQ)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
-<br>
-<img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
-<br>
-<img src="/images/PULSAR1.jpeg" class="auto-size">
+<!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
+<img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br>
 ![PULSAR1](/images/PULSAR1.jpeg)
 
-<video src="https://youtu.be/lrEJnJrRJsQ?si=AjWy0GhPUC-1RrOC" controls>
+<video src="https://www.youtube.com/watch?v=lrEJnJrRJsQ" controls>
   您的浏览器不支持视频标签。
 </video>
 
