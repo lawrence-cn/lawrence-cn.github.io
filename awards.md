@@ -16,11 +16,13 @@ title: Awards
 - Arthur and Louise May Memorial Fund Scholarship (2023)
 - Postgraduate Scholarships of HKU (2020-2024)
 <br>
+
 ### M.Eng
 - Excellent Research Award (2018)
 - Excellent Postgraduate Award (2018)
 - Short-term International Academic Exchange Scholarship (2017)
 <br>
+
 ### B.Eng
 - Outstanding Graduate of Shenzhen University (University Level, 5\%, 2015)
 - Excellent Student of Academic Performance (Second Prize, 10\%, 2014)
