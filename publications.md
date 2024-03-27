@@ -18,11 +18,12 @@ title: Publications
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br>
-<img src="/images/PULSAR2.jpeg" style="zoom:25%;" />
-<center>Overview of PULSAR</center>
-<br>
-<img src="/images/PULSAR1.jpeg" style="zoom:25%;" />
-<center>Selected as a visual feature on the website of Science</center>
+<img src="./images/PULSAR2.jpeg" width="500">
+
+**Overview of PULSAR**
+<img src="./images/PULSAR1.jpeg" width="500" />
+
+**Selected as a visual feature on the website of Science**
 
 <!-- <video src="https://www.bilibili.com/video/BV1Ro4y1i7mE" controls>
   您的浏览器不支持视频标签。
