@@ -5,31 +5,31 @@ title: Awards
 ---
 
 ## Academic Awards
-- Best Paper Award on Robot Mechanisms and Design in IROS 2023
+- Best Paper Award on Robot Mechanisms and Design in IROS 2023<br>
 (As first author)
 <br>
 <img src="/awards_img/IROS1.jpg" width="300">
 
-- Best Paper Award Finalist in IROS 2023
+- Best Paper Award Finalist in IROS 2023<br>
 (As first author)
 <br>
 <img src="/awards_img/IROS2.jpg" width="300">
 
-- Best Paper Award Finalist in IEEE/ASME Transactions on Mechatronics 2023
+- Best Paper Award Finalist in IEEE/ASME Transactions on Mechatronics 2023<br>
 (As co-first author)
 <br>
 <img src="/awards_img/T-MECH.jpg" width="400">
 
-- Best Mechanical Design Award in the workshop held at ICRA 2023
+- Best Mechanical Design Award in the workshop held at ICRA 2023<br>
 (As first author)
 <br>
 <img src="/awards_img/ICRA.jpg" width="400">
 
 ## Scholarships & Honors
 ### Ph.D.
-- Research Postgraduate Student Innovation Award
-- Arthur and Louise May Memorial Fund Scholarship
-- Postgraduate Scholarships of HKU
+- Research Postgraduate Student Innovation Award (Up to 10 persons, 50k HKD funding)
+- Arthur and Louise May Memorial Fund Scholarship (27.5k HKD)
+- Postgraduate Scholarships of HKU (18.9k HKD per month)
 <br>
 
 ### M.Eng
