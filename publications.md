@@ -69,8 +69,8 @@ Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan
 [<font color=blue>[LINK]</font>](https://mars.hku.hk/dataset.html)
 <br><img src="/images/LVIG.jpeg" width="500">
 <br>**The UAV used for MARS-LVIG Dataset**
-<br><img src="/images/LVIG2.jpeg" width="500">
-<br>**The UAV used for MARS-LVIG Dataset**
+<!-- <br><img src="/images/LVIG2.jpeg" width="500">
+<br>**The UAV used for MARS-LVIG Dataset** -->
 
 ### <font color="#C5502B">Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights</font>
 Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
@@ -93,6 +93,8 @@ Dongjiao He, Wei Xu, **Nan Chen**, Fanze Kong, Chongjian Yuan, Fu Zhang
 [<font color=blue>[Preprint]</font>](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aisy.202200459)
 [<font color=blue>[Youtube]</font>](https://youtu.be/oS83xUs42Uw?si=aHDnNhM_4xNcFXU-)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1xL411R7Yq)
+<br><img src="/images/PointLIO.jpeg" width="500">
+<br>**Mapping under high-speed motion of Point-LIO**
 
 
 ### <font color="#C5502B">MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs</font>
