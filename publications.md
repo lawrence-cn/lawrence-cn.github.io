@@ -133,7 +133,7 @@ Haotian Li\*, **Nan Chen**\*, Fanze Kong, Yuying Zou, Shenji Zhou, Dongjiao He, 
 <br>**Overview of UAV HALO**
 
 ### <font color="#C5502B">Sensorless initial mover position detection of the planar switched reluctance motor using current injection method</font>
-Guangzhong Cao, **Nan Chen**, Sudan Huang.
+Guangzhong Cao, **Nan Chen**, Sudan Huang
 <br>Supervisor first author
 <br>Published on ***2017 7th International Conference on Power Electronics Systems and Applications-Smart Mobility, Power Transfer & Security (PESA 2017)***
 
