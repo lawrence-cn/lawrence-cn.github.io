@@ -10,13 +10,13 @@ title: Publications
 **Nan Chen**, Fanze Kong, Wei Xu, Yixi Cai, Haotian Li, Dongjiao He, Youming Qin, Fu Zhang
 <br>Published on ***Science Robotics***
 <br>
-[<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
+[<font color=blue>[Paper]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=lrEJnJrRJsQ)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br><img src="/images/PULSAR1.jpeg" width="500">
-<br>**Overview of PULSAR**
+<br>**Overview of UAV PULSAR**
 <br>
 <img src="/images/PULSAR2.jpeg" width="500">
 <br>**Selected as a visual feature on the website of Science**
@@ -41,7 +41,7 @@ Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=qGhQbPtp7Sw)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV17R4y1L7d3/?spm_id_from=333.999.0.0&vd_source=529f674babcef1c7b0b6fe455ad82cdb)
 <br><img src="/images/Gemini1.jpeg" width="500">
-<br>**Overview of Gemini II**
+<br>**Overview of the UAV Gemini II**
 <br>
 <img src="/images/Gemini2.jpeg" width="500">
 <br>**Best Paper Award Finalist of T-MECH 2023**
@@ -53,6 +53,8 @@ Timothy Ng, **Nan Chen**, Fu Zhang
 <br>
 <!-- [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=1bGmlN0Jriw)
+<br><img src="/images/SNAPP1.jpeg" width="500">
+<br>**Overview of the robotic fish SNAPP**
 
 
 ### <font color="#C5502B">Nonlinear modeling of the flux linkage in 2-D plane for the planar switched reluctance motor</font>
