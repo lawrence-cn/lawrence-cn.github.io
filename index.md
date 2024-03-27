@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="/images/lawrence.JPG" class="floatpic" width="413" height="531">
 

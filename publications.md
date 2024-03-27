@@ -4,7 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
 ## Journal Papers
 ### <font color="#C5502B">A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation</font>
 **Nan Chen**, Fanze Kong, Wei Xu, Yixi Cai, Haotian Li, Dongjiao He, Youming Qin, Fu Zhang
