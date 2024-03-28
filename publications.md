@@ -9,8 +9,9 @@ title: Publications
 **Nan Chen**, Fanze Kong, Wei Xu, Yixi Cai, Haotian Li, Dongjiao He, Youming Qin, Fu Zhang
 <br>Published on ***Science Robotics***
 <br>
-[<font color=blue>[Paper]</font>](/file/SR.pdf)
-[<font color=blue>[Paper]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
+[<font color=blue>[Paper]</font>](/files/SR.pdf)
+[<font color=blue>[Paper_Supplement]</font>](/files/SR_sup.pdf)
+<!-- [<font color=blue>[Paper]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=lrEJnJrRJsQ)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
@@ -30,6 +31,7 @@ title: Publications
 ### <font color="#C5502B">Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation</font>
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
 <br>Published on ***IEEE Transactions on Industrial Electronics (T-IE)***
+[<font color=blue>[Paper]</font>](/files/T-IE.pdf)
 
 
 ### <font color="#C5502B">Gemini II: Design, Modeling, and Control of a Compact Yet Efficient Servoless Bi-copter</font>
@@ -38,6 +40,7 @@ Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
 <br>Published on ***IEEE/ASME Transactions on Mechatronics (T-MECH)***
 <br>
 <!-- [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
+[<font color=blue>[Paper]</font>](/files/T-MECH.pdf)
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=qGhQbPtp7Sw)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV17R4y1L7d3/?spm_id_from=333.999.0.0&vd_source=529f674babcef1c7b0b6fe455ad82cdb)
 <br><img src="/images/Gemini1.jpeg" width="500">
@@ -61,6 +64,7 @@ Timothy Ng, **Nan Chen**, Fu Zhang
 Guangzhong Cao, **Nan Chen**, Sudan Huang, Jiangbiao He
 <br>Supervisor first author
 <br>Published on ***IEEE Transactions on Magnetics (T-MAG)***
+[<font color=blue>[Paper]</font>](/files/T-MAG.pdf)
 
 ### <font color="#C5502B">MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion</font>
 Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan Liu, Dongjiao He, Fanze Kong, Yixi Cai, Zheng Liu, Shunbo Zhou, Kaiwen Xue and Fu Zhang
@@ -114,7 +118,8 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 **Nan Chen**\*, Fanze Kong\*, Haotian Li, Jiayuan Liu, Ziwei Ye, Wei Xu, Fangcheng Zhu, Ximin Lyu, Fu Zhang
 <br>Published on ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
-[<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2309.13559.pdf)
+[<font color=blue>[Paper]</font>](/files/IROS.pdf)
+<!-- [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2309.13559.pdf) -->
 [<font color=blue>[Youtube]</font>](https://youtu.be/Sx9Rk4Zf7sQ?si=-JGP7CZFW_FYLHKX)
 <!-- <br>***Best Paper Award on Robot Mechanisms and Design in IROS 2023***
 <br>Selected as the ***Best Paper Award Finalists in IROS 2023***. -->
