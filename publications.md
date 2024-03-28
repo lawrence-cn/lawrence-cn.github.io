@@ -31,6 +31,7 @@ title: Publications
 ### <font color="#C5502B">Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation</font>
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
 <br>Published on ***IEEE Transactions on Industrial Electronics (T-IE)***
+<br>
 [<font color=blue>[Paper]</font>](/files/T-IE.pdf)
 
 
@@ -64,6 +65,7 @@ Timothy Ng, **Nan Chen**, Fu Zhang
 Guangzhong Cao, **Nan Chen**, Sudan Huang, Jiangbiao He
 <br>Supervisor first author
 <br>Published on ***IEEE Transactions on Magnetics (T-MAG)***
+<br>
 [<font color=blue>[Paper]</font>](/files/T-MAG.pdf)
 
 ### <font color="#C5502B">MARS-LVIG dataset: A multi-sensor aerial robots SLAM dataset for LiDAR-visual-inertial-GNSS fusion</font>
