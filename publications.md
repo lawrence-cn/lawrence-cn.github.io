@@ -55,12 +55,11 @@ Youming Qin\*, **Nan Chen**\*, Yixi Cai, Wei Xu, Fu Zhang
 Timothy Ng, **Nan Chen**, Fu Zhang
 <br>Published on ***IEEE Robotics and Automation Letters (RA-L)***
 <br>
-<!-- [<font color=blue>[Preprint]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
+[<font color=blue>[Paper]</font>](/files/RAL-SNAPP.pdf)
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=1bGmlN0Jriw)
 <br><img src="/images/SNAPP1.jpeg" width="500">
 <br>**Overview of the robotic fish SNAPP**
-<br>
-[<font color=blue>[Paper]</font>](/files/RAL-SNAPP.pdf)
+
 
 
 ### <font color="#C5502B">Nonlinear modeling of the flux linkage in 2-D plane for the planar switched reluctance motor</font>
