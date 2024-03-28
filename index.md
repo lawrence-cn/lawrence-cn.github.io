@@ -28,12 +28,12 @@ I am the author of 14 published papers (**1 Science Robotics**, **1 T-IE**, **1 
 
 - **Jun 2023**: Our paper “Agile motions of a single-actuated, self-rotating UAV”, is selected as the Best Mechanical Design Award at the workshop of "Agile Movements: Animal Behavior, Biomechanics, and Robot Devices" held in **2023 International Conference on Robotics and Automation (ICRA)**.
 
-- **Mar 2023**: Our paper “A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation” is published on and visually featured by **Science Robotics**.
+- **Mar 2023**: Our paper “A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation” is published on and visually featured by **Science Robotics**. Our paper is presented on the homepage of the **Science** website.
 [<font color=red>[Paper]</font>](/files/SR.pdf)
 [<font color=red>[Paper_Supplement]</font>](/files/SR_sup.pdf)
 [<font color=red>[Youtube]</font>](https://www.youtube.com/watch?v=lrEJnJrRJsQ)
 [<font color=red>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
-Our paper is presented on the homepage of the **Science** website.
+
 
 
 ## Education Background
