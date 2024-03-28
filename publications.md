@@ -111,7 +111,7 @@ Dongjiao He, Wei Xu, **Nan Chen**, Fanze Kong, Chongjian Yuan, Fu Zhang
 Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng Zhu, **Nan Chen**, Fu Zhang
 <br>Published on ***IEEE Robotics and Automation Letters (RA-L)*** 
 <br>
-[<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2211.10716.pdf)
+[<font color=blue>[Paper]</font>](/files/RAL-MARSIM.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/hiRtcq-5lN0?si=ELwVtgSFala3ncQU)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1M84y117KG)
 <br><img src="/images/MARSIM.jpeg" width="500">
