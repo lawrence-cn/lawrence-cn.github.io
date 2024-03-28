@@ -80,7 +80,8 @@ Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan
 Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
 <br>Accepted on ***International Journal of Robotics Research (IJRR)*** 
 <br>
-[<font color=blue>[Preprint]</font>](https://arxiv.org/pdf/2212.11552.pdf)
+[<font color=blue>[Paper]</font>](/files/IJRR-HongHu.pdf)
+<!-- [<font color=blue>[Preprint]</font>](https://arxiv.org/pdf/2212.11552.pdf) -->
 [<font color=blue>[Youtube]</font>](https://youtu.be/2x_bLbVuyrk?si=on8mgj96K2cthpsA)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Z84y1s7BR)
 <br><img src="/images/HongHu1.jpeg" width="700">
@@ -118,7 +119,7 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 **Nan Chen**\*, Fanze Kong\*, Haotian Li, Jiayuan Liu, Ziwei Ye, Wei Xu, Fangcheng Zhu, Ximin Lyu, Fu Zhang
 <br>Published on ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
 <br>
-[<font color=blue>[Paper]</font>](/files/IROS.pdf)
+[<font color=blue>[Paper]</font>](/files/IROS-HongHe.pdf)
 <!-- [<font color=blue>[Preprint]</font>](https://arxiv.org/abs/2309.13559.pdf) -->
 [<font color=blue>[Youtube]</font>](https://youtu.be/Sx9Rk4Zf7sQ?si=-JGP7CZFW_FYLHKX)
 <!-- <br>***Best Paper Award on Robot Mechanisms and Design in IROS 2023***
