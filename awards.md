@@ -27,9 +27,12 @@ title: Awards
 
 ## Scholarships & Honors
 ### Ph.D.
-- Research Postgraduate Student Innovation Award (Up to 10 persons, 50k HKD funding)
+<!-- - Research Postgraduate Student Innovation Award (Up to 10 persons, 50k HKD funding)
 - Arthur and Louise May Memorial Fund Scholarship (27.5k HKD)
-- Postgraduate Scholarships of HKU (18.9k HKD per month for 4 years)
+- Postgraduate Scholarships of HKU (18.9k HKD per month for 4 years) -->
+- Research Postgraduate Student Innovation Award (Up to 10 persons)
+- Arthur and Louise May Memorial Fund Scholarship
+- Postgraduate Scholarships of HKU
 <br>
 
 ### M.Eng
