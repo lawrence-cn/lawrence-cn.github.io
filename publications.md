@@ -70,6 +70,7 @@ Guangzhong Cao, **Nan Chen**, Sudan Huang, Jiangbiao He
 Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan Liu, Dongjiao He, Fanze Kong, Yixi Cai, Zheng Liu, Shunbo Zhou, Kaiwen Xue and Fu Zhang
 <br>Published on ***International Journal of Robotics Research (IJRR)*** 
 <br>
+[<font color=blue>[Paper]</font>](/files/IJRR-LVIG.pdf)
 [<font color=blue>[LINK]</font>](https://mars.hku.hk/dataset.html)
 <!-- <br><img src="/images/LVIG.jpeg" width="500">
 <br>**The UAV used for MARS-LVIG Dataset** -->
@@ -95,7 +96,8 @@ Guozheng Lu, Yixi Cai, **Nan Chen**, Fanze Kong, Yunfan Ren, Fu Zhang
 Dongjiao He, Wei Xu, **Nan Chen**, Fanze Kong, Chongjian Yuan, Fu Zhang
 <br>Published on ***Advanced Intelligent Systems (AIS)***
 <br>
-[<font color=blue>[Preprint]</font>](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aisy.202200459)
+<!-- [<font color=blue>[Preprint]</font>](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aisy.202200459) -->
+[<font color=blue>[Paper]</font>](/files/AIS-Point.pdf)
 [<font color=blue>[Youtube]</font>](https://youtu.be/oS83xUs42Uw?si=aHDnNhM_4xNcFXU-)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1xL411R7Yq)
 <br><img src="/images/PointLIO.jpeg" width="700">
