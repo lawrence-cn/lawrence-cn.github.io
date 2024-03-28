@@ -9,6 +9,7 @@ title: Publications
 **Nan Chen**, Fanze Kong, Wei Xu, Yixi Cai, Haotian Li, Dongjiao He, Youming Qin, Fu Zhang
 <br>Published on ***Science Robotics***
 <br>
+[<font color=blue>[Paper]</font>](/file/SR.pdf)
 [<font color=blue>[Paper]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf)
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=lrEJnJrRJsQ)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
