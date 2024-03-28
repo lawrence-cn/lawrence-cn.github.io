@@ -59,6 +59,8 @@ Timothy Ng, **Nan Chen**, Fu Zhang
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=1bGmlN0Jriw)
 <br><img src="/images/SNAPP1.jpeg" width="500">
 <br>**Overview of the robotic fish SNAPP**
+<br>
+[<font color=blue>[Paper]</font>](/files/RAL-SNAPP.pdf)
 
 
 ### <font color="#C5502B">Nonlinear modeling of the flux linkage in 2-D plane for the planar switched reluctance motor</font>
@@ -73,7 +75,7 @@ Haotian Li, Yuying Zou, **Nan Chen**, Jiarong Lin, Wei Xu, Chunran Zheng, Xiyuan
 <br>Published on ***International Journal of Robotics Research (IJRR)*** 
 <br>
 [<font color=blue>[Paper]</font>](/files/IJRR-LVIG.pdf)
-[<font color=blue>[LINK]</font>](https://mars.hku.hk/dataset.html)
+[<font color=blue>[Website]</font>](https://mars.hku.hk/dataset.html)
 <!-- <br><img src="/images/LVIG.jpeg" width="500">
 <br>**The UAV used for MARS-LVIG Dataset** -->
 <br><img src="/images/LVIG2.jpeg" width="700">
