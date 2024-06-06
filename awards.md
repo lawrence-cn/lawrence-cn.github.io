@@ -23,7 +23,12 @@ title: Awards
 - Best Mechanical Design Award in the workshop held at ICRA 2023<br>
 (As first author)
 <br>
-<img src="/awards_img/ICRA.jpg" width="400">
+<img src="/awards_img/ICRA2023.jpg" width="400">
+
+- Best Mechanical Design Award in the workshop held at ICRA 2024<br>
+(As second author)
+<br>
+<img src="/awards_img/ICRA2024.jpg" width="400">
 
 ## Scholarships & Honors
 ### Ph.D.
