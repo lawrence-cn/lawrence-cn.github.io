@@ -35,9 +35,9 @@ title: Awards
 <!-- - Research Postgraduate Student Innovation Award (Up to 10 persons, 50k HKD funding)
 - Arthur and Louise May Memorial Fund Scholarship (27.5k HKD)
 - Postgraduate Scholarships of HKU (18.9k HKD per month for 4 years) -->
-- Research Postgraduate Student Innovation Award 2023-2024
-- Arthur and Louise May Memorial Fund Scholarship 2023-2024
-- Arthur and Louise May Memorial Fund Scholarship 2022-2023
+- Research Postgraduate Student Innovation Award 2024
+- Arthur and Louise May Memorial Fund Scholarship 2024
+- Arthur and Louise May Memorial Fund Scholarship 2023
 - Postgraduate Scholarships of HKU
 <br>
 
