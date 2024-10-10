@@ -5,6 +5,8 @@ title: Publications
 ---
 
 ## Journal Papers
+
+<br>
 ### <font color="#C5502B">A self-rotating, single-actuated UAV with extended sensor field of view for autonomous navigation</font>
 **Nan Chen**, Fanze Kong, Wei Xu, Yixi Cai, Haotian Li, Dongjiao He, Youming Qin, Fu Zhang
 <br>Published on ***Science Robotics***
@@ -129,9 +131,11 @@ Fanze Kong, Xiyuan Liu, Benxu Tang, Jiarong Lin, Yunfan Ren, Yixi Cai, Fangcheng
 <br><img src="/images/MARSIM.jpeg" width="500">
 <br>**A demo of MARSIM**
 
-
+<br>
+<br>
 ## Conference Papers
 
+<br>
 ### <font color="#C5502B">Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV</font>
 **Nan Chen**\*, Fanze Kong\*, Haotian Li, Jiayuan Liu, Ziwei Ye, Wei Xu, Fangcheng Zhu, Ximin Lyu, Fu Zhang
 <br>Published on ***2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)*** 
