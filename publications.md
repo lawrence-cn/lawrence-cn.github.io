@@ -27,7 +27,8 @@ title: Publications
 </video>
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lrEJnJrRJsQ" frameborder="0" allowfullscreen></iframe> -->
-
+<br>
+<br>
 ### <font color="#C5502B">Sensorless control of planar switched reluctance motors based on voltage injection combined with core-loss calculation</font>
 **Nan Chen**, Guangzhong Cao, Sudan Huang, Jundi Sun
 <br>Published on ***IEEE Transactions on Industrial Electronics (T-IE)***

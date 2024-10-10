@@ -40,7 +40,6 @@ title: Awards
 - Arthur and Louise May Memorial Fund Scholarship 2024
 - Arthur and Louise May Memorial Fund Scholarship 2023
 - Postgraduate Scholarships of HKU
-
 <br>
 
 ### M.Eng
