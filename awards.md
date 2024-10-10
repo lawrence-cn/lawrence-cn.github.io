@@ -35,11 +35,12 @@ title: Awards
 <!-- - Research Postgraduate Student Innovation Award (Up to 10 persons, 50k HKD funding)
 - Arthur and Louise May Memorial Fund Scholarship (27.5k HKD)
 - Postgraduate Scholarships of HKU (18.9k HKD per month for 4 years) -->
-- Postgraduate Scholarships of HKU
-- Arthur and Louise May Memorial Fund Scholarship 2023
-- Arthur and Louise May Memorial Fund Scholarship 2024
-- HKU Foundation Publication Award 2024
 - Research Postgraduate Student Innovation Award 2024
+- HKU Foundation Publication Award 2024
+- Arthur and Louise May Memorial Fund Scholarship 2024
+- Arthur and Louise May Memorial Fund Scholarship 2023
+- Postgraduate Scholarships of HKU
+
 <br>
 
 ### M.Eng
@@ -49,11 +50,12 @@ title: Awards
 <br>
 
 ### B.Eng
+- Outstanding Graduate (University Level, 5%)
 - Excellent Student of Academic Performance (First Prize, 5%)
 - Excellent Student of Academic Performance (First Prize, 5%)
 - Excellent Student of Academic Performance (Second Prize, 10%)
 - Educational Robot Competition in China (First prize)
-- Outstanding Graduate (University Level, 5%)
+
 
 
 <!-- - May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
