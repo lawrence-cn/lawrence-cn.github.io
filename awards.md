@@ -30,11 +30,9 @@ title: Awards
 <br>
 <img src="/awards_img/ICRA2024.jpg" width="400">
 
+
 ## Scholarships & Honors
 ### Ph.D.
-<!-- - Research Postgraduate Student Innovation Award (Up to 10 persons, 50k HKD funding)
-- Arthur and Louise May Memorial Fund Scholarship (27.5k HKD)
-- Postgraduate Scholarships of HKU (18.9k HKD per month for 4 years) -->
 - Research Postgraduate Student Innovation Award 2024
 - HKU Foundation Publication Award 2024
 - Arthur and Louise May Memorial Fund Scholarship 2024
@@ -56,14 +54,6 @@ title: Awards
 - Educational Robot Competition in China (First prize)
 
 
-
-<!-- - May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022: Best Student Project Award of Maynooth (€100)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth. -->
 
 <!-- ## Competitions -->
 
