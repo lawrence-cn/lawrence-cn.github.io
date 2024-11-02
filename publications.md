@@ -14,6 +14,7 @@ title: Publications
 <!-- [<font color=blue>[Paper]</font>](https://mars.hku.hk/papers/scirobotics.ade4538_.pdf) -->
 [<font color=blue>[Youtube]</font>](https://www.youtube.com/watch?v=lrEJnJrRJsQ)
 [<font color=blue>[Bilibili]</font>](https://www.bilibili.com/video/BV1Ro4y1i7mE)
+[<font color=blue>[OpenSource]</font>](https://github.com/hku-mars/PULSAR)
 <!-- <img src="/images/PULSAR1.jpeg" class="floatpic" width="3421" height="1763">
 <img src="/images/PULSAR1.jpeg" class="auto-size"> -->
 <br><img src="/images/PULSAR1.jpeg" width="500">
