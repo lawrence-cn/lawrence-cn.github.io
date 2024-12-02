@@ -33,6 +33,7 @@ title: Awards
 
 ## Scholarships & Honors
 ### Ph.D.
+- Scholarship of Autonomous Robotic Technology Seminar (ARTS) 2024 
 - Research Postgraduate Student Innovation Award 2024
 - HKU Foundation Publication Award 2024
 - Arthur and Louise May Memorial Fund Scholarship 2024
@@ -53,29 +54,6 @@ title: Awards
 - Excellent Student of Academic Performance (Second Prize, 10%)
 - Educational Robot Competition in China (First prize)
 
-
-
-<!-- ## Competitions -->
-
-<!-- - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- May 2023：Third Prize in Milan Design Week China Design Exhibition (powered by my girlfriend)
-- Dec 2022：**First Prize** (Fujian Competition Area) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
-- May 2022：Third Prize (Short Videos Group) in China National College Student New Media Competition -->
-
-<!-- ## Honors -->
-
-<!-- - May 2023：Outstanding Student Leaders of Fuzhou University
-- Sep 2022：Nomination for China National Scholarship (3/1200)
-- June 2022：Nomination for China Telecom Scholarship (1/900)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- May 2021：Merit Student of Fuzhou University
-- April 2021：Outstanding volunteer at 4th Digital China Summit -->
 
 <!-- ## Services -->
 
